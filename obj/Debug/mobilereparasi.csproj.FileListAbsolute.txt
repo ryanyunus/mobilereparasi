@@ -1,0 +1,13 @@
+C:\Users\A\source\repos\mobilereparasi\bin\Debug\mobilereparasi.exe.config
+C:\Users\A\source\repos\mobilereparasi\bin\Debug\mobilereparasi.exe
+C:\Users\A\source\repos\mobilereparasi\bin\Debug\mobilereparasi.pdb
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.Properties.Resources.resources
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.csproj.GenerateResource.cache
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.exe
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.pdb
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.Spares.resources
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.Customers2.resources
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.RepDateTb.resources
+C:\Users\A\source\repos\mobilereparasi\obj\Debug\mobilereparasi.Login.resources
